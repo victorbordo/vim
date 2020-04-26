@@ -2,4 +2,4 @@
 Vim config.
 
 ## Configure
-Symlink `.vimrc` to `~/.vimrc`. 
+Symlink `.vimrc` to `~/.vimrc` -> `ln -s ~/.vim/.vimrc ~/.vimrc`. 
